@@ -1,12 +1,9 @@
 # DEAW
-## Tabla de compañeros de clase
+## Tabla de compaï¿½eros de clase
 
-| Nombre Compañero | GITHUB |
+| Nombre Compaï¿½ero | GITHUB |
 | ---------------- | -------|
 | Nestor Can. Pac. | https://github.com/Nestorcanpac|
-| Pau Albarracín | https://github.com/Tacatoco |
-'n## Tabla prueba Compañeros 'n
-| Nombre | Git |
-|--------|-----|
+| Pau Albarracï¿½n | https://github.com/Tacatoco |ss
 |Angel P.|https://github.com/AngelDX7 |
 |Luis P. |https://github.com/LAPinosB|
